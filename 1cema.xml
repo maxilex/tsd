@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MobileAppInfo xmlns="http://v8.1c.ru/8.3/mobile-application/app" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="МобильноеТСД" id="f4b67f30-9786-401d-9e9b-5c2e87abbad7" lastUpdateUUID="ca558e9e-fab5-4593-b853-9a3b3050b12d" formatVersion="4" defaultLanguage="Language.Русский" version="1.4.4.1">
+<MobileAppInfo xmlns="http://v8.1c.ru/8.3/mobile-application/app" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="МобильноеТСД" id="f4b67f30-9786-401d-9e9b-5c2e87abbad7" lastUpdateUUID="10bc6f28-9415-420b-9b22-2f42db6a8125" formatVersion="4" defaultLanguage="Language.Русский" version="1.5.2.1">
 	<synonym>
 		<item xmlns="http://v8.1c.ru/8.1/data/core">
 			<lang>ru</lang>
